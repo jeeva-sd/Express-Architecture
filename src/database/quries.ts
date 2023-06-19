@@ -1,0 +1,1 @@
+export const addMessage = `SELECT * FROM HELLO`;

@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+ffmpeg-6.0
+dist
+.env
